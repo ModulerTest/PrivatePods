@@ -1,6 +1,6 @@
 # LGMacroAndCategoryModule
 
-[![CI Status](https://img.shields.io/travis/LGKody/LGMacroAndCategoryModule.svg?style=flat)](https://travis-ci.org/LGKody/LGMacroAndCategoryModule)
+[![CI Status](https://img.shields.io/travis/cooci_tz@163.com/LGMacroAndCategoryModule.svg?style=flat)](https://travis-ci.org/cooci_tz@163.com/LGMacroAndCategoryModule)
 [![Version](https://img.shields.io/cocoapods/v/LGMacroAndCategoryModule.svg?style=flat)](https://cocoapods.org/pods/LGMacroAndCategoryModule)
 [![License](https://img.shields.io/cocoapods/l/LGMacroAndCategoryModule.svg?style=flat)](https://cocoapods.org/pods/LGMacroAndCategoryModule)
 [![Platform](https://img.shields.io/cocoapods/p/LGMacroAndCategoryModule.svg?style=flat)](https://cocoapods.org/pods/LGMacroAndCategoryModule)
@@ -22,7 +22,7 @@ pod 'LGMacroAndCategoryModule'
 
 ## Author
 
-LGKody, kody_logic@qq.com
+cooci_tz@163.com, cooci_tz@163.com
 
 ## License
 

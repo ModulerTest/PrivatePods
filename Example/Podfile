@@ -7,7 +7,6 @@ target 'LGMacroAndCategoryModule_Example' do
 
   target 'LGMacroAndCategoryModule_Tests' do
     inherit! :search_paths
-
     
   end
 end

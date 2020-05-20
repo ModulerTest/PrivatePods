@@ -2,8 +2,8 @@
 //  LGAppDelegate.m
 //  LGMacroAndCategoryModule
 //
-//  Created by LGKody on 02/25/2020.
-//  Copyright (c) 2020 LGKody. All rights reserved.
+//  Created by cooci on 02/25/2020.
+//  Copyright (c) 2020 cooci. All rights reserved.
 //
 
 #import "LGAppDelegate.h"
